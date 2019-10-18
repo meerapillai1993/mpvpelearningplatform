@@ -1,0 +1,1 @@
+web: gunicorn aduca.wsgi --log-file -
